@@ -1,9 +1,7 @@
 
-🖼️ Image Caption & Multilingual Story Generator (Jupyter + Tkinter) 
- 
  A Python application that generates AI-powered captions and multilingual short stories (English, Hindi, Marathi) from uploaded images.
  This project uses **Tkinter GUI** (runs from Jupyter), **OpenRouter AI (GPT-4o-mini)** for image captioning, and **DeepSeek** for creative story generation.  
-
+ Image Caption & Multilingual Story Generator (Jupyter + Tkinter)
 ---
 
 ## 🚀 Features
