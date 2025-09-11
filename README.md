@@ -65,7 +65,6 @@ Read the caption and 3 AI-generated stories in the output box.
 
 📌 Notes for Jupyter Users
 The Tkinter GUI will open as a separate window, not inside Jupyter.
-
 You may need to allow pop-ups in some environments (like JupyterLab).
 
 
